@@ -4,3 +4,4 @@ flask-migrate
 flask-sqlalchemy
 celery
 rq
+psycopg2-binary
